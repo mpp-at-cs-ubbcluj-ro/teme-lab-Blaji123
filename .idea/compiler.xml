@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="lab" target="23" />
       <module name="lab-mpp" target="23" />
+      <module name="lab-mpp.main" target="23" />
+      <module name="lab-mpp.test" target="23" />
       <module name="lab.main" target="23" />
       <module name="lab.test" target="23" />
       <module name="untitled.main" target="23" />

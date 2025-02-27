@@ -3,11 +3,11 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/untitled" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/lab-mpp" />
         <option name="gradleHome" value="" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/untitled" />
+            <option value="$PROJECT_DIR$/lab-mpp" />
           </set>
         </option>
       </GradleProjectSettings>
